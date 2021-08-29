@@ -1,13 +1,9 @@
-body{
-    min-height: 5000px;
-}
-
 
 .jumbotron{
     padding-top: 7rem;
     background-color: #d9dbdf;
 }
 
-#works{
-background-color: aquamarine;
+section{
+    padding-top: 5rem;
 }
